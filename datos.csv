@@ -1,0 +1,1168 @@
+﻿Subsistema,Energetico,Variable,UnidadDeMedida,Año,Cantidad
+Internacional,"Petróleo Crudo, Condensado y Gasolina Natural",Exportación,Kbep,2006,1525.55
+Internacional,"Petróleo Crudo, Condensado y Gasolina Natural",Exportación,Kbep,2007,1038.38
+Internacional,"Petróleo Crudo, Condensado y Gasolina Natural",Exportación,Kbep,2012,300.71
+Internacional,"Petróleo Crudo, Condensado y Gasolina Natural",Exportación,Kbep,2013,3122.44
+Internacional,"Petróleo Crudo, Condensado y Gasolina Natural",Exportación,Kbep,2014,2867.29
+Internacional,"Petróleo Crudo, Condensado y Gasolina Natural",Exportación,Kbep,2015,443.7
+Internacional,Gas Natural,Exportación,Kbep,2006,64009.14
+Internacional,Gas Natural,Exportación,Kbep,2007,70708.45
+Internacional,Gas Natural,Exportación,Kbep,2008,73388.32
+Internacional,Gas Natural,Exportación,Kbep,2009,59179.93
+Internacional,Gas Natural,Exportación,Kbep,2010,70107.11
+Internacional,Gas Natural,Exportación,Kbep,2011,75760.49
+Internacional,Gas Natural,Exportación,Kbep,2012,88692.33
+Internacional,Gas Natural,Exportación,Kbep,2013,102869.63
+Internacional,Gas Natural,Exportación,Kbep,2014,106995.86
+Internacional,Gas Natural,Exportación,Kbep,2015,105286.25
+Internacional,Gas Natural,Exportación,Kbep,2016,96668.61
+Internacional,Gas Natural,Exportación,Kbep,2017,92628.03
+Internacional,Gas Natural,Exportación,Kbep,2018,84066.54
+Internacional,Gas Natural,Exportación,Kbep,2019,71649.66
+Internacional,Gas Natural,Exportación,Kbep,2020,72869.97
+Internacional,Gas Natural,Exportación,Kbep,2021,72773.68
+Internacional,Electricidad,Exportación,Kbep,2006,0.03
+Internacional,Electricidad,Exportación,Kbep,2007,0.04
+Internacional,Diesel Oil,Importación,Kbep,2006,2761.1
+Internacional,Diesel Oil,Importación,Kbep,2007,3218.84
+Internacional,Diesel Oil,Importación,Kbep,2008,2953.91
+Internacional,Diesel Oil,Importación,Kbep,2009,3957.53
+Internacional,Diesel Oil,Importación,Kbep,2010,4256.01
+Internacional,Diesel Oil,Importación,Kbep,2011,4906.61
+Internacional,Diesel Oil,Importación,Kbep,2012,4917.98
+Internacional,Diesel Oil,Importación,Kbep,2013,5582.67
+Internacional,Diesel Oil,Importación,Kbep,2014,5900.85
+Internacional,Diesel Oil,Importación,Kbep,2015,5097
+Internacional,Diesel Oil,Importación,Kbep,2016,5754.11
+Internacional,Diesel Oil,Importación,Kbep,2017,6751.94
+Internacional,Diesel Oil,Importación,Kbep,2018,7583.36
+Internacional,Diesel Oil,Importación,Kbep,2019,9026.87
+Internacional,Diesel Oil,Importación,Kbep,2020,6282.08
+Internacional,Diesel Oil,Importación,Kbep,2021,9298.85
+Optimización,Gas Natural,No aprovechado,Kbep,2006,533.35
+Optimización,Gas Natural,No aprovechado,Kbep,2007,459.61
+Optimización,Gas Natural,No aprovechado,Kbep,2008,539.56
+Optimización,Gas Natural,No aprovechado,Kbep,2009,433.05
+Optimización,Gas Natural,No aprovechado,Kbep,2010,522.85
+Optimización,Gas Natural,No aprovechado,Kbep,2011,745.04
+Optimización,Gas Natural,No aprovechado,Kbep,2012,424.82
+Optimización,Gas Natural,No aprovechado,Kbep,2013,590.01
+Optimización,Gas Natural,No aprovechado,Kbep,2014,408.95
+Optimización,Gas Natural,No aprovechado,Kbep,2015,436.91
+Optimización,Gas Natural,No aprovechado,Kbep,2016,523.77
+Optimización,Gas Natural,No aprovechado,Kbep,2017,400.54
+Optimización,Gas Natural,No aprovechado,Kbep,2018,449.63
+Optimización,Gas Natural,No aprovechado,Kbep,2019,504.77
+Optimización,Gas Natural,No aprovechado,Kbep,2020,401.61
+Optimización,Gas Natural,No aprovechado,Kbep,2021,321.56
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2006,685.98
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2007,295.6
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2008,-539.77
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2009,-370.01
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2010,-347.18
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2011,-344.19
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2012,1754.66
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2013,-815.93
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2014,-88.81
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2015,-700.77
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2016,-225.14
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2017,-131.25
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2018,-479.28
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2019,-188.91
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2020,-377
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",AJUSTE,Kbep,2021,-694.05
+Optimización,Gas Natural,AJUSTE,Kbep,2006,3433.49
+Optimización,Gas Natural,AJUSTE,Kbep,2007,760.22
+Optimización,Gas Natural,AJUSTE,Kbep,2008,43.28
+Optimización,Gas Natural,AJUSTE,Kbep,2009,196.27
+Optimización,Gas Natural,AJUSTE,Kbep,2010,344.49
+Optimización,Gas Natural,AJUSTE,Kbep,2011,658.04
+Optimización,Gas Natural,AJUSTE,Kbep,2012,432.7
+Optimización,Gas Natural,AJUSTE,Kbep,2013,73.34
+Optimización,Gas Natural,AJUSTE,Kbep,2014,587.33
+Optimización,Gas Natural,AJUSTE,Kbep,2015,179.43
+Optimización,Gas Natural,AJUSTE,Kbep,2016,266.97
+Optimización,Gas Natural,AJUSTE,Kbep,2017,329.77
+Optimización,Gas Natural,AJUSTE,Kbep,2018,328.45
+Optimización,Gas Natural,AJUSTE,Kbep,2019,-316.65
+Optimización,Gas Natural,AJUSTE,Kbep,2020,-24.15
+Optimización,Gas Natural,AJUSTE,Kbep,2021,-203.07
+Optimización,Biomasa,AJUSTE,Kbep,2006,-0.05
+Optimización,Biomasa,AJUSTE,Kbep,2009,-153.92
+Optimización,Biomasa,AJUSTE,Kbep,2010,-316.05
+Optimización,Electricidad,AJUSTE,Kbep,2006,-108.61
+Optimización,Electricidad,AJUSTE,Kbep,2007,-101.75
+Optimización,Electricidad,AJUSTE,Kbep,2008,-153.37
+Optimización,Electricidad,AJUSTE,Kbep,2009,-143.22
+Optimización,Electricidad,AJUSTE,Kbep,2010,-170.37
+Optimización,Electricidad,AJUSTE,Kbep,2011,31.05
+Optimización,Electricidad,AJUSTE,Kbep,2012,80.47
+Optimización,Electricidad,AJUSTE,Kbep,2013,122.89
+Optimización,Electricidad,AJUSTE,Kbep,2014,132.85
+Optimización,Electricidad,AJUSTE,Kbep,2015,124.61
+Optimización,Electricidad,AJUSTE,Kbep,2016,18.77
+Optimización,Electricidad,AJUSTE,Kbep,2017,-17.22
+Optimización,Electricidad,AJUSTE,Kbep,2018,142.75
+Optimización,Electricidad,AJUSTE,Kbep,2019,167.99
+Optimización,Electricidad,AJUSTE,Kbep,2020,205.49
+Optimización,Electricidad,AJUSTE,Kbep,2021,256.81
+Optimización,Diesel Oil,AJUSTE,Kbep,2006,-40.45
+Optimización,Diesel Oil,AJUSTE,Kbep,2007,375.42
+Optimización,Diesel Oil,AJUSTE,Kbep,2008,38.85
+Optimización,Diesel Oil,AJUSTE,Kbep,2009,-198.41
+Optimización,Diesel Oil,AJUSTE,Kbep,2010,-359.01
+Optimización,Diesel Oil,AJUSTE,Kbep,2011,-202.57
+Optimización,Diesel Oil,AJUSTE,Kbep,2012,-680.84
+Optimización,Diesel Oil,AJUSTE,Kbep,2013,-252.87
+Optimización,Diesel Oil,AJUSTE,Kbep,2014,-190.01
+Optimización,Diesel Oil,AJUSTE,Kbep,2015,-299.1
+Optimización,Diesel Oil,AJUSTE,Kbep,2016,-245.5
+Optimización,Diesel Oil,AJUSTE,Kbep,2017,-403.13
+Optimización,Diesel Oil,AJUSTE,Kbep,2018,-206.47
+Optimización,Diesel Oil,AJUSTE,Kbep,2019,-32.03
+Optimización,Diesel Oil,AJUSTE,Kbep,2020,-188.54
+Optimización,Diesel Oil,AJUSTE,Kbep,2021,-182.34
+Optimización,Biomasa,AJUSTE,Kbep,2021,0
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2006,46.33
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2007,39.48
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2008,27.22
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2009,31.05
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2010,24.28
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2011,45.05
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2012,22.86
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2013,16.09
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2014,59.07
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2015,56.59
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2016,49.45
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2017,25.6
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2018,29.43
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2019,11.14
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2020,8.43
+Optimización,"Petróleo Crudo, Condensado y Gasolina Natural",Pérdidas,Kbep,2021,8.58
+Optimización,Gas Natural,Pérdidas,Kbep,2006,59.36
+Optimización,Gas Natural,Pérdidas,Kbep,2007,43.91
+Optimización,Gas Natural,Pérdidas,Kbep,2008,105.34
+Optimización,Gas Natural,Pérdidas,Kbep,2009,15.65
+Optimización,Gas Natural,Pérdidas,Kbep,2010,91.94
+Optimización,Gas Natural,Pérdidas,Kbep,2011,84.03
+Optimización,Gas Natural,Pérdidas,Kbep,2012,44.54
+Optimización,Gas Natural,Pérdidas,Kbep,2013,43.71
+Optimización,Gas Natural,Pérdidas,Kbep,2014,217.92
+Optimización,Gas Natural,Pérdidas,Kbep,2015,127.09
+Optimización,Gas Natural,Pérdidas,Kbep,2016,9.92
+Optimización,Gas Natural,Pérdidas,Kbep,2017,197.02
+Optimización,Gas Natural,Pérdidas,Kbep,2018,134.45
+Optimización,Gas Natural,Pérdidas,Kbep,2019,173.11
+Optimización,Gas Natural,Pérdidas,Kbep,2020,218.87
+Optimización,Gas Natural,Pérdidas,Kbep,2021,282.89
+Optimización,Electricidad,Pérdidas,Kbep,2006,362.17
+Optimización,Electricidad,Pérdidas,Kbep,2007,391.1
+Optimización,Electricidad,Pérdidas,Kbep,2008,424.97
+Optimización,Electricidad,Pérdidas,Kbep,2009,444.89
+Optimización,Electricidad,Pérdidas,Kbep,2010,485.37
+Optimización,Electricidad,Pérdidas,Kbep,2011,493.05
+Optimización,Electricidad,Pérdidas,Kbep,2012,468.14
+Optimización,Electricidad,Pérdidas,Kbep,2013,442.65
+Optimización,Electricidad,Pérdidas,Kbep,2014,467.84
+Optimización,Electricidad,Pérdidas,Kbep,2015,504.43
+Optimización,Electricidad,Pérdidas,Kbep,2016,495.85
+Optimización,Electricidad,Pérdidas,Kbep,2017,529.5
+Optimización,Electricidad,Pérdidas,Kbep,2018,547.14
+Optimización,Electricidad,Pérdidas,Kbep,2019,554.48
+Optimización,Electricidad,Pérdidas,Kbep,2020,546.89
+Optimización,Electricidad,Pérdidas,Kbep,2021,575.37
+Optimización,Diesel Oil,Pérdidas,Kbep,2006,5.97
+Optimización,Diesel Oil,Pérdidas,Kbep,2007,5.37
+Optimización,Diesel Oil,Pérdidas,Kbep,2008,9.33
+Optimización,Diesel Oil,Pérdidas,Kbep,2009,6.65
+Optimización,Diesel Oil,Pérdidas,Kbep,2010,6.83
+Optimización,Diesel Oil,Pérdidas,Kbep,2011,3.24
+Optimización,Diesel Oil,Pérdidas,Kbep,2012,4.62
+Optimización,Diesel Oil,Pérdidas,Kbep,2013,1.32
+Optimización,Diesel Oil,Pérdidas,Kbep,2014,1.72
+Optimización,Diesel Oil,Pérdidas,Kbep,2015,1.62
+Optimización,Diesel Oil,Pérdidas,Kbep,2016,2.93
+Optimización,Diesel Oil,Pérdidas,Kbep,2017,1.45
+Optimización,Diesel Oil,Pérdidas,Kbep,2018,1.14
+Optimización,Diesel Oil,Pérdidas,Kbep,2019,2.08
+Optimización,Diesel Oil,Pérdidas,Kbep,2020,1.66
+Optimización,Diesel Oil,Pérdidas,Kbep,2021,0.66
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2006,2932.25
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2007,3211.76
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2008,3325.12
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2009,3777.35
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2010,3853.16
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2011,4336.87
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2012,4681.73
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2013,5159.89
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2014,5450.57
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2015,5468.08
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2016,5519.57
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2017,5378.67
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2018,5364.64
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2019,5296.59
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2020,4658.65
+Acceso,Gas Natural,Consumo en Sector industrial,Kbep,2021,5404.43
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2006,3868.88
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2007,4025.45
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2008,4171.95
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2009,4361.05
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2010,4641.2
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2011,4478.51
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2012,4727.32
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2013,4439.63
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2014,4413.61
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2015,4228.92
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2016,4584.51
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2017,4977.55
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2018,4921.34
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2019,4218.08
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2020,4685.13
+Acceso,Biomasa,Consumo en Sector industrial,Kbep,2021,3548.14
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2006,788.28
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2007,838.56
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2008,984.06
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2009,1029.18
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2010,1004.92
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2011,1015.27
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2012,1109.1
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2013,1166.31
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2014,1249.32
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2015,1308.52
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2016,1322.13
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2017,1333.14
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2018,1283.04
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2019,1334.51
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2020,1149.83
+Acceso,Electricidad,Consumo en Sector industrial,Kbep,2021,1361.78
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2006,221.67
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2007,239.67
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2008,247.42
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2009,255.3
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2010,270.88
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2011,297.03
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2012,322.77
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2013,353.29
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2014,378.86
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2015,379.05
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2016,386.2
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2017,411.22
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2018,404.01
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2019,366.45
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2020,255.93
+Acceso,Diesel Oil,Consumo en Sector industrial,Kbep,2021,206.93
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2006,135.27
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2007,156.19
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2008,203.22
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2009,265.8
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2010,297.96
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2011,387.18
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2012,463.23
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2013,548.12
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2014,650.45
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2015,757.92
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2016,859.76
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2017,948.81
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2018,972.1
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2019,1054.42
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2020,1237.4
+Acceso,Gas Natural,Consumo en Sector residencial,Kbep,2021,1185.45
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2006,1233.25
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2007,1173.27
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2008,1113.81
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2009,1068.18
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2010,1044.45
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2011,927.17
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2012,789.71
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2013,873.88
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2014,1003.67
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2015,817.28
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2016,821.6
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2017,770.48
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2018,779.56
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2019,548.45
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2020,674.84
+Acceso,Biomasa,Consumo en Sector residencial,Kbep,2021,486.05
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2006,1080.81
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2007,1135.77
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2008,1162.57
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2009,1216.34
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2010,1332.44
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2011,1440.06
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2012,1516.34
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2013,1611.5
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2014,1738.39
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2015,1853.58
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2016,1956.1
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2017,1998.55
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2018,2056.97
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2019,2108.13
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2020,2257.75
+Acceso,Electricidad,Consumo en Sector residencial,Kbep,2021,2253.78
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2006,118.36
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2007,131.12
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2008,156.35
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2009,181.01
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2010,194.52
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2011,229.5
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2012,246.75
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2013,265.91
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2014,287.66
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2015,303.62
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2016,328.57
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2017,349.19
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2018,373.18
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2019,384.21
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2020,295.87
+Acceso,Gas Natural,"Consumo en Sector comercial, servicios y público",Kbep,2021,376.73
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2006,635.04
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2007,659.71
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2008,692.84
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2009,735.79
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2010,810.16
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2011,881.96
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2012,920.68
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2013,989.22
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2014,1081.95
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2015,1169.89
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2016,1239.01
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2017,1289.53
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2018,1348.96
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2019,1388.7
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2020,1273
+Acceso,Electricidad,"Consumo en Sector comercial, servicios y público",Kbep,2021,1357.54
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2006,41.34
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2007,44.42
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2008,45.58
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2009,46.75
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2010,49.32
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2011,53.77
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2012,58.11
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2013,63.26
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2014,67.48
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2015,67.16
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2016,68.09
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2017,72.14
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2018,61.56
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2019,80.29
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2020,62.79
+Acceso,Diesel Oil,"Consumo en Sector comercial, servicios y público",Kbep,2021,96.35
+Acceso,Gas Natural,Consumo no energético,Kbep,2016,104.54
+Acceso,Gas Natural,Consumo no energético,Kbep,2017,782.4
+Acceso,Gas Natural,Consumo no energético,Kbep,2018,1876.47
+Acceso,Gas Natural,Consumo no energético,Kbep,2019,1875.09
+Acceso,Gas Natural,Consumo no energético,Kbep,2020,194.94
+Acceso,Gas Natural,Consumo no energético,Kbep,2021,957.94
+Acceso,Gas Natural,TOTAL CONSUMO NO ENERGÉTICO,Kbep,2016,104.54
+Acceso,Gas Natural,TOTAL CONSUMO NO ENERGÉTICO,Kbep,2017,782.4
+Acceso,Gas Natural,TOTAL CONSUMO NO ENERGÉTICO,Kbep,2018,1876.47
+Acceso,Gas Natural,TOTAL CONSUMO NO ENERGÉTICO,Kbep,2019,1875.09
+Acceso,Gas Natural,TOTAL CONSUMO NO ENERGÉTICO,Kbep,2020,194.94
+Acceso,Gas Natural,TOTAL CONSUMO NO ENERGÉTICO,Kbep,2021,957.94
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2006,193.87
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2007,280.22
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2008,391.5
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2009,400.28
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2010,463.54
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2011,398.77
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2012,390.08
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2013,399.33
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2014,397.21
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2015,424.54
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2016,432.63
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2017,430.42
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2018,404.79
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2019,387.18
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2020,334.15
+Acceso,Electricidad,"Consumo en Sector agro, pesca y minería",Kbep,2021,428.47
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2006,1730.13
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2007,1710.45
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2008,1614.57
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2009,1523.33
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2010,1477.92
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2011,1481.85
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2012,1472.37
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2013,1473.6
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2014,1444.94
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2015,1321.88
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2016,1231.49
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2017,1199.01
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2018,1459.91
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2019,1631.68
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2020,1280.89
+Acceso,Diesel Oil,"Consumo en Sector agro, pesca y minería",Kbep,2021,1750.68
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2006,83.31
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2007,94.27
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2008,101.74
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2009,102.13
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2010,117.17
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2011,126.12
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2012,161.6
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2013,147.2
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2014,112.02
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2015,118.44
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2016,126.21
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2017,128.54
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2018,128.2
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2019,140.87
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2020,157.09
+Acceso,Electricidad,Consumo en Sector construcción y otros,Kbep,2021,166.26
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2006,659.92
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2007,738.59
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2008,773.37
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2009,794.97
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2010,826.34
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2011,873.2
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2012,898.93
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2013,914.97
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2014,893.03
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2015,792.1
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2016,691.31
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2017,600.56
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2018,547.7
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2019,551.54
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2020,220.61
+Acceso,Diesel Oil,Consumo en Sector construcción y otros,Kbep,2021,306.73
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2006,1134.48
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2007,1524
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2008,1953.75
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2009,2371.44
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2010,2713.84
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2011,3115.42
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2012,3414.6
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2013,3828.56
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2014,4028.42
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2015,4119.75
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2016,4208.07
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2017,4409.42
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2018,4673.31
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2019,4722.36
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2020,3145.71
+Acceso,Gas Natural,Consumo en Sector transporte,Kbep,2021,4178.01
+Acceso,Electricidad,Consumo en Sector transporte,Kbep,2010,0.05
+Acceso,Electricidad,Consumo en Sector transporte,Kbep,2011,0.08
+Acceso,Electricidad,Consumo en Sector transporte,Kbep,2012,0.08
+Acceso,Electricidad,Consumo en Sector transporte,Kbep,2013,0.09
+Acceso,Electricidad,Consumo en Sector transporte,Kbep,2014,0.93
+Acceso,Electricidad,Consumo en Sector transporte,Kbep,2015,4.09
+Acceso,Electricidad,Consumo en Sector transporte,Kbep,2016,5.32
+Acceso,Electricidad,Consumo en Sector transporte,Kbep,2017,8.36
+Acceso,Electricidad,Consumo en Sector transporte,Kbep,2018,13.75
+Acceso,Electricidad,Consumo en Sector transporte,Kbep,2019,18.51
+Acceso,Electricidad,Consumo en Sector transporte,Kbep,2020,11.21
+Acceso,Electricidad,Consumo en Sector transporte,Kbep,2021,15.41
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2006,4417.7
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2007,4853.88
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2008,5092.13
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2009,5339.48
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2010,5757.3
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2011,6415.56
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2012,7084.51
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2013,7880.19
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2014,8587.56
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2015,8731.19
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2016,9040.15
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2017,9782.1
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2018,10019.48
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2019,10027.64
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2020,8653.68
+Acceso,Diesel Oil,Consumo en Sector transporte,Kbep,2021,10664.71
+Acceso,Gas Natural,Consumo propio,Kbep,2006,1657.07
+Acceso,Gas Natural,Consumo propio,Kbep,2007,1692.89
+Acceso,Gas Natural,Consumo propio,Kbep,2008,1745.32
+Acceso,Gas Natural,Consumo propio,Kbep,2009,1697.17
+Acceso,Gas Natural,Consumo propio,Kbep,2010,1712.68
+Acceso,Gas Natural,Consumo propio,Kbep,2011,1760.2
+Acceso,Gas Natural,Consumo propio,Kbep,2012,1947.72
+Acceso,Gas Natural,Consumo propio,Kbep,2013,2025.11
+Acceso,Gas Natural,Consumo propio,Kbep,2014,1985.76
+Acceso,Gas Natural,Consumo propio,Kbep,2015,1892.65
+Acceso,Gas Natural,Consumo propio,Kbep,2016,2144.01
+Acceso,Gas Natural,Consumo propio,Kbep,2017,2024.81
+Acceso,Gas Natural,Consumo propio,Kbep,2018,1937.23
+Acceso,Gas Natural,Consumo propio,Kbep,2019,1833.73
+Acceso,Gas Natural,Consumo propio,Kbep,2020,1888.38
+Acceso,Gas Natural,Consumo propio,Kbep,2021,2042.78
+Acceso,Biomasa,Consumo propio,Kbep,2006,169
+Acceso,Biomasa,Consumo propio,Kbep,2007,206.5
+Acceso,Biomasa,Consumo propio,Kbep,2008,244
+Acceso,Biomasa,Consumo propio,Kbep,2009,244
+Acceso,Biomasa,Consumo propio,Kbep,2010,244
+Acceso,Biomasa,Consumo propio,Kbep,2011,244
+Acceso,Biomasa,Consumo propio,Kbep,2012,244
+Acceso,Biomasa,Consumo propio,Kbep,2013,244
+Acceso,Biomasa,Consumo propio,Kbep,2014,244
+Acceso,Biomasa,Consumo propio,Kbep,2015,244
+Acceso,Biomasa,Consumo propio,Kbep,2016,244
+Acceso,Biomasa,Consumo propio,Kbep,2017,244
+Acceso,Biomasa,Consumo propio,Kbep,2018,244
+Acceso,Biomasa,Consumo propio,Kbep,2019,244
+Acceso,Biomasa,Consumo propio,Kbep,2020,244
+Acceso,Biomasa,Consumo propio,Kbep,2021,244
+Acceso,Electricidad,Consumo propio,Kbep,2006,51.33
+Acceso,Electricidad,Consumo propio,Kbep,2007,57.39
+Acceso,Electricidad,Consumo propio,Kbep,2008,57.89
+Acceso,Electricidad,Consumo propio,Kbep,2009,63.94
+Acceso,Electricidad,Consumo propio,Kbep,2010,76.28
+Acceso,Electricidad,Consumo propio,Kbep,2011,86.73
+Acceso,Electricidad,Consumo propio,Kbep,2012,99.91
+Acceso,Electricidad,Consumo propio,Kbep,2013,116.62
+Acceso,Electricidad,Consumo propio,Kbep,2014,123.54
+Acceso,Electricidad,Consumo propio,Kbep,2015,142.96
+Acceso,Electricidad,Consumo propio,Kbep,2016,230.28
+Acceso,Electricidad,Consumo propio,Kbep,2017,307.48
+Acceso,Electricidad,Consumo propio,Kbep,2018,238.93
+Acceso,Electricidad,Consumo propio,Kbep,2019,240.79
+Acceso,Electricidad,Consumo propio,Kbep,2020,283.68
+Acceso,Electricidad,Consumo propio,Kbep,2021,325.49
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2006,4320.37
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2007,5023.07
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2008,5638.43
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2009,6595.59
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2010,7059.48
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2011,8068.98
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2012,8806.31
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2013,9802.47
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2014,10417.11
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2015,10649.37
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2016,10915.97
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2017,11086.09
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2018,11383.23
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2019,11457.57
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2020,9337.63
+Acceso,Gas Natural,TOTAL CONSUMO ENERGÉTICO,Kbep,2021,11144.63
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2006,5102.13
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2007,5198.72
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2008,5285.76
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2009,5429.23
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2010,5685.65
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2011,5405.68
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2012,5517.02
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2013,5313.51
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2014,5417.28
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2015,5046.19
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2016,5406.11
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2017,5748.04
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2018,5700.9
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2019,4766.53
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2020,5359.97
+Acceso,Biomasa,TOTAL CONSUMO ENERGÉTICO,Kbep,2021,4034.19
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2006,2781.31
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2007,3008.53
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2008,3332.71
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2009,3483.72
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2010,3728.28
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2011,3862.26
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2012,4097.89
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2013,4313.64
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2014,4579.82
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2015,4879.06
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2016,5081.4
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2017,5188.52
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2018,5235.7
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2019,5377.9
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2020,5183.03
+Acceso,Electricidad,TOTAL CONSUMO ENERGÉTICO,Kbep,2021,5583.24
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2006,7070.76
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2007,7587.01
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2008,7773.07
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2009,7959.83
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2010,8381.76
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2011,9121.41
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2012,9836.69
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2013,10685.31
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2014,11371.88
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2015,11291.38
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2016,11417.23
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2017,12065.04
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2018,12492.66
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2019,12657.6
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2020,10473.92
+Acceso,Diesel Oil,TOTAL CONSUMO ENERGÉTICO,Kbep,2021,13025.4
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2006,4320.37
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2007,5023.07
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2008,5638.43
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2009,6595.59
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2010,7059.48
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2011,8068.98
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2012,8806.31
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2013,9802.47
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2014,10417.11
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2015,10649.37
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2016,11020.51
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2017,11868.49
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2018,13259.7
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2019,13332.66
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2020,9532.57
+Acceso,Gas Natural,TOTAL CONSUMO FINAL,Kbep,2021,12102.57
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2006,5102.13
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2007,5198.72
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2008,5285.76
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2009,5429.23
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2010,5685.65
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2011,5405.68
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2012,5517.02
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2013,5313.51
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2014,5417.28
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2015,5046.19
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2016,5406.11
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2017,5748.04
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2018,5700.9
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2019,4766.53
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2020,5359.97
+Acceso,Biomasa,TOTAL CONSUMO FINAL,Kbep,2021,4034.19
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2006,2781.31
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2007,3008.53
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2008,3332.71
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2009,3483.72
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2010,3728.28
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2011,3862.26
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2012,4097.89
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2013,4313.64
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2014,4579.82
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2015,4879.06
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2016,5081.4
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2017,5188.52
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2018,5235.7
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2019,5377.9
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2020,5183.03
+Acceso,Electricidad,TOTAL CONSUMO FINAL,Kbep,2021,5583.24
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2006,7070.76
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2007,7587.01
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2008,7773.07
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2009,7959.83
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2010,8381.76
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2011,9121.41
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2012,9836.69
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2013,10685.31
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2014,11371.88
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2015,11291.38
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2016,11417.23
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2017,12065.04
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2018,12492.66
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2019,12657.6
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2020,10473.92
+Acceso,Diesel Oil,TOTAL CONSUMO FINAL,Kbep,2021,13025.4
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2006,16326.61
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2007,16952
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2008,17397.87
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2009,15167.21
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2010,15702.16
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2011,16295.18
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2012,18581.58
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2013,18555.76
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2014,20217.6
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2015,21777.81
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2016,20741
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2017,19924.33
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2018,18585.74
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2019,16407.46
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2020,15220.35
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",OFERTA TOTAL,Kbep,2021,14941.9
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2006,16685.24
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2007,15260.09
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2008,16092.69
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2009,17673.69
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2010,19785.79
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2011,21875.71
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2012,22757.93
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2013,23763.27
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2014,26477.5
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2015,26896.42
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2016,30397
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2017,30741.22
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2018,31156.89
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2019,29792.29
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2020,24715.3
+Producción,Gas Natural,OFERTA TOTAL,Kbep,2021,28374.88
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2006,1337.64
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2007,1437.03
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2008,1431.04
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2009,1422.38
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2010,1346.82
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2011,1453.89
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2012,1457.55
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2013,1570.71
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2014,1394.96
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2015,1526.11
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2016,1065.61
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2017,1383.9
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2018,1618.62
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2019,2013.99
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2020,1822.98
+Producción,Hidroenergia,OFERTA TOTAL,Kbep,2021,2005.54
+Producción,Biomasa,OFERTA TOTAL,Kbep,2006,5518
+Producción,Biomasa,OFERTA TOTAL,Kbep,2007,5702
+Producción,Biomasa,OFERTA TOTAL,Kbep,2008,5928
+Producción,Biomasa,OFERTA TOTAL,Kbep,2009,6009.04
+Producción,Biomasa,OFERTA TOTAL,Kbep,2010,6091.18
+Producción,Biomasa,OFERTA TOTAL,Kbep,2011,6174.45
+Producción,Biomasa,OFERTA TOTAL,Kbep,2012,6258.85
+Producción,Biomasa,OFERTA TOTAL,Kbep,2013,6344.41
+Producción,Biomasa,OFERTA TOTAL,Kbep,2014,6431.14
+Producción,Biomasa,OFERTA TOTAL,Kbep,2015,6519.05
+Producción,Biomasa,OFERTA TOTAL,Kbep,2016,6608.17
+Producción,Biomasa,OFERTA TOTAL,Kbep,2017,6698.5
+Producción,Biomasa,OFERTA TOTAL,Kbep,2018,6790.07
+Producción,Biomasa,OFERTA TOTAL,Kbep,2019,6882.89
+Producción,Biomasa,OFERTA TOTAL,Kbep,2020,6976.98
+Producción,Biomasa,OFERTA TOTAL,Kbep,2021,7072.35
+Producción,Eólica,OFERTA TOTAL,Kbep,2014,5.05
+Producción,Eólica,OFERTA TOTAL,Kbep,2015,7.09
+Producción,Eólica,OFERTA TOTAL,Kbep,2016,21.63
+Producción,Eólica,OFERTA TOTAL,Kbep,2017,37.41
+Producción,Eólica,OFERTA TOTAL,Kbep,2018,36.46
+Producción,Eólica,OFERTA TOTAL,Kbep,2019,43.51
+Producción,Eólica,OFERTA TOTAL,Kbep,2020,39.78
+Producción,Eólica,OFERTA TOTAL,Kbep,2021,74.12
+Producción,Solar,OFERTA TOTAL,Kbep,2014,0.28
+Producción,Solar,OFERTA TOTAL,Kbep,2015,2.97
+Producción,Solar,OFERTA TOTAL,Kbep,2016,3.51
+Producción,Solar,OFERTA TOTAL,Kbep,2017,4.27
+Producción,Solar,OFERTA TOTAL,Kbep,2018,78.95
+Producción,Solar,OFERTA TOTAL,Kbep,2019,117.12
+Producción,Solar,OFERTA TOTAL,Kbep,2020,154.89
+Producción,Solar,OFERTA TOTAL,Kbep,2021,217.19
+Producción,Electricidad,OFERTA TOTAL,Kbep,2006,-0.03
+Producción,Electricidad,OFERTA TOTAL,Kbep,2007,-0.04
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2006,2701.31
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2007,3299.26
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2008,2968.28
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2009,3939.69
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2010,4276.64
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2011,4899.4
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2012,4907.79
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2013,5559.34
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2014,5917.15
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2015,5085.85
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2016,5769.64
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2017,6775.5
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2018,7579.75
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2019,8949.77
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2020,6293.6
+Producción,Diesel Oil,OFERTA TOTAL,Kbep,2021,9390.86
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2006,-15594.29
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2007,-16616.93
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2008,-17910.42
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2009,-15506.17
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2010,-16025.06
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2011,-16594.33
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2012,-16804.06
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2013,-19355.61
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2014,-20247.34
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2015,-22422
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2016,-20916.69
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2017,-20029.97
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2018,-19035.59
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2019,-16585.23
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2020,-15588.93
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Transformación en Refinerías,Kbep,2021,-15627.37
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2006,4526.71
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2007,4895.39
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2008,5067.26
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2009,4058.86
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2010,4041.34
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2011,4280.91
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2012,4597.74
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2013,5199.91
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2014,5654.81
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2015,6332.14
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2016,5829.32
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2017,5334.55
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2018,5182.32
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2019,4168.18
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2020,4460.6
+Producción,Diesel Oil,Transformación en Refinerías,Kbep,2021,3890.55
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2006,102.32
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2007,-37.57
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2008,162.1
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2009,162.1
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2010,16.14
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2011,-1.16
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2012,6.85
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2013,25.59
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2014,19.03
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2015,-13.33
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2016,21.52
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2017,8.33
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2018,2.59
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2019,-70.71
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2020,57.81
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Variación de inventarios,Kbep,2021,15.8
+Producción,Diesel Oil,Variación de inventarios,Kbep,2006,-59.79
+Producción,Diesel Oil,Variación de inventarios,Kbep,2007,80.43
+Producción,Diesel Oil,Variación de inventarios,Kbep,2008,14.37
+Producción,Diesel Oil,Variación de inventarios,Kbep,2009,-17.84
+Producción,Diesel Oil,Variación de inventarios,Kbep,2010,20.63
+Producción,Diesel Oil,Variación de inventarios,Kbep,2011,-7.21
+Producción,Diesel Oil,Variación de inventarios,Kbep,2012,-10.19
+Producción,Diesel Oil,Variación de inventarios,Kbep,2013,-23.34
+Producción,Diesel Oil,Variación de inventarios,Kbep,2014,16.3
+Producción,Diesel Oil,Variación de inventarios,Kbep,2015,-11.14
+Producción,Diesel Oil,Variación de inventarios,Kbep,2016,15.52
+Producción,Diesel Oil,Variación de inventarios,Kbep,2017,23.56
+Producción,Diesel Oil,Variación de inventarios,Kbep,2018,-3.61
+Producción,Diesel Oil,Variación de inventarios,Kbep,2019,-77.1
+Producción,Diesel Oil,Variación de inventarios,Kbep,2020,11.52
+Producción,Diesel Oil,Variación de inventarios,Kbep,2021,92.01
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2006,-4982.26
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2007,-5516.41
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2008,-6335.87
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2009,-7005.8
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2010,-8456.88
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2011,-9239.85
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2012,-9422.36
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2013,-9119.79
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2014,-10387.75
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2015,-10753.23
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2016,-12812.4
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2017,-12010.95
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2018,-10975.94
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2019,-9677.81
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2020,-8640.05
+Producción,Gas Natural,Transformación en Centrales eléctricas,Kbep,2021,-8630.85
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2006,-1337.64
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2007,-1437.03
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2008,-1431.04
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2009,-1422.38
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2010,-1346.82
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2011,-1453.89
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2012,-1457.55
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2013,-1570.71
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2014,-1394.96
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2015,-1524.73
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2016,-1062.99
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2017,-1381.62
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2018,-1614.55
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2019,-2010.34
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2020,-1821.2
+Producción,Hidroenergia,Transformación en Centrales eléctricas,Kbep,2021,-2003.1
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2006,-246.92
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2007,-296.78
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2008,-398.24
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2009,-489.73
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2010,-477.58
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2011,-263.51
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2012,-264.34
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2013,-325.76
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2014,-335.99
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2015,-354.22
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2016,-276.24
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2017,-210.74
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2018,-344.24
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2019,-1579.29
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2020,-1001.38
+Producción,Biomasa,Transformación en Centrales eléctricas,Kbep,2021,-1697
+Producción,Eólica,Transformación en Centrales eléctricas,Kbep,2014,-5.05
+Producción,Eólica,Transformación en Centrales eléctricas,Kbep,2015,-7.09
+Producción,Eólica,Transformación en Centrales eléctricas,Kbep,2016,-21.63
+Producción,Eólica,Transformación en Centrales eléctricas,Kbep,2017,-37.41
+Producción,Eólica,Transformación en Centrales eléctricas,Kbep,2018,-36.46
+Producción,Eólica,Transformación en Centrales eléctricas,Kbep,2019,-43.51
+Producción,Eólica,Transformación en Centrales eléctricas,Kbep,2020,-39.78
+Producción,Eólica,Transformación en Centrales eléctricas,Kbep,2021,-74.12
+Producción,Solar,Transformación en Centrales eléctricas,Kbep,2014,-0.28
+Producción,Solar,Transformación en Centrales eléctricas,Kbep,2015,-2.97
+Producción,Solar,Transformación en Centrales eléctricas,Kbep,2016,-3.51
+Producción,Solar,Transformación en Centrales eléctricas,Kbep,2017,-4.27
+Producción,Solar,Transformación en Centrales eléctricas,Kbep,2018,-78.95
+Producción,Solar,Transformación en Centrales eléctricas,Kbep,2019,-117.12
+Producción,Solar,Transformación en Centrales eléctricas,Kbep,2020,-154.89
+Producción,Solar,Transformación en Centrales eléctricas,Kbep,2021,-217.19
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2006,3081.64
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2007,3350.11
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2008,3658.55
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2009,3845.68
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2010,4112.43
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2011,4424.83
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2012,4680.67
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2013,4936.62
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2014,5247.95
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2015,5513.35
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2016,5687.59
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2017,5824.96
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2018,5987.99
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2019,6184.47
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2020,5982.98
+Producción,Electricidad,Transformación en Centrales eléctricas,Kbep,2021,6443.51
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2006,-191.73
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2007,-226.85
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2008,-214.3
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2009,-230.48
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2010,-288.4
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2011,-258.23
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2012,-344.93
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2013,-325.36
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2014,-388.23
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2015,-416.67
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2016,-416.88
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2017,-445.49
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2018,-472.62
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2019,-490.31
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2020,-467.16
+Producción,Diesel Oil,Transformación en Centrales eléctricas,Kbep,2021,-437.68
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2006,17749.84
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2007,18027.96
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2008,17235.77
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2009,15005.1
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2010,15686.02
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2011,16296.34
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2012,18875.43
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2013,21652.61
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2014,23065.87
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2015,22234.84
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2016,20719.48
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2017,19916
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2018,18583.14
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2019,16478.17
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2020,15162.55
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",Producción,Kbep,2021,14926.1
+Producción,Gas Natural,Producción,Kbep,2006,81227.72
+Producción,Gas Natural,Producción,Kbep,2007,86428.14
+Producción,Gas Natural,Producción,Kbep,2008,90020.56
+Producción,Gas Natural,Producción,Kbep,2009,77286.66
+Producción,Gas Natural,Producción,Kbep,2010,90415.76
+Producción,Gas Natural,Producción,Kbep,2011,98381.24
+Producción,Gas Natural,Producción,Kbep,2012,111875.08
+Producción,Gas Natural,Producción,Kbep,2013,127222.91
+Producción,Gas Natural,Producción,Kbep,2014,133882.3
+Producción,Gas Natural,Producción,Kbep,2015,132619.58
+Producción,Gas Natural,Producción,Kbep,2016,127589.37
+Producción,Gas Natural,Producción,Kbep,2017,123769.8
+Producción,Gas Natural,Producción,Kbep,2018,115673.06
+Producción,Gas Natural,Producción,Kbep,2019,101946.71
+Producción,Gas Natural,Producción,Kbep,2020,97986.89
+Producción,Gas Natural,Producción,Kbep,2021,101470.11
+Producción,Hidroenergia,Producción,Kbep,2006,1337.64
+Producción,Hidroenergia,Producción,Kbep,2007,1437.03
+Producción,Hidroenergia,Producción,Kbep,2008,1431.04
+Producción,Hidroenergia,Producción,Kbep,2009,1422.38
+Producción,Hidroenergia,Producción,Kbep,2010,1346.82
+Producción,Hidroenergia,Producción,Kbep,2011,1453.89
+Producción,Hidroenergia,Producción,Kbep,2012,1457.55
+Producción,Hidroenergia,Producción,Kbep,2013,1570.71
+Producción,Hidroenergia,Producción,Kbep,2014,1394.96
+Producción,Hidroenergia,Producción,Kbep,2015,1526.11
+Producción,Hidroenergia,Producción,Kbep,2016,1065.61
+Producción,Hidroenergia,Producción,Kbep,2017,1383.9
+Producción,Hidroenergia,Producción,Kbep,2018,1618.62
+Producción,Hidroenergia,Producción,Kbep,2019,2013.99
+Producción,Hidroenergia,Producción,Kbep,2020,1822.98
+Producción,Hidroenergia,Producción,Kbep,2021,2005.54
+Producción,Biomasa,Producción,Kbep,2006,5518
+Producción,Biomasa,Producción,Kbep,2007,5702
+Producción,Biomasa,Producción,Kbep,2008,5928
+Producción,Biomasa,Producción,Kbep,2009,6009.04
+Producción,Biomasa,Producción,Kbep,2010,6091.18
+Producción,Biomasa,Producción,Kbep,2011,6174.45
+Producción,Biomasa,Producción,Kbep,2012,6258.85
+Producción,Biomasa,Producción,Kbep,2013,6344.41
+Producción,Biomasa,Producción,Kbep,2014,6431.14
+Producción,Biomasa,Producción,Kbep,2015,6519.05
+Producción,Biomasa,Producción,Kbep,2016,6608.17
+Producción,Biomasa,Producción,Kbep,2017,6698.5
+Producción,Biomasa,Producción,Kbep,2018,6790.07
+Producción,Biomasa,Producción,Kbep,2019,6882.89
+Producción,Biomasa,Producción,Kbep,2020,6976.98
+Producción,Biomasa,Producción,Kbep,2021,7072.35
+Producción,Eólica,Producción,Kbep,2014,5.05
+Producción,Eólica,Producción,Kbep,2015,7.09
+Producción,Eólica,Producción,Kbep,2016,21.63
+Producción,Eólica,Producción,Kbep,2017,37.41
+Producción,Eólica,Producción,Kbep,2018,36.46
+Producción,Eólica,Producción,Kbep,2019,43.51
+Producción,Eólica,Producción,Kbep,2020,39.78
+Producción,Eólica,Producción,Kbep,2021,74.12
+Producción,Solar,Producción,Kbep,2014,0.28
+Producción,Solar,Producción,Kbep,2015,2.97
+Producción,Solar,Producción,Kbep,2016,3.51
+Producción,Solar,Producción,Kbep,2017,4.27
+Producción,Solar,Producción,Kbep,2018,78.95
+Producción,Solar,Producción,Kbep,2019,117.12
+Producción,Solar,Producción,Kbep,2020,154.89
+Producción,Solar,Producción,Kbep,2021,217.19
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2006,-52.91
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2007,-52.91
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2008,-52.91
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2009,-52.91
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2010,-59.12
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2011,-85.41
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2012,-117.74
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2013,-119.76
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2014,-121.9
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2015,-251.62
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2016,-344.12
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2017,-510.56
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2018,-533
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2019,-651.41
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2020,-380.84
+Producción,Gas Natural,Transformación en Autoproductores,Kbep,2021,-615.42
+Producción,Hidroenergia,Transformación en Autoproductores,Kbep,2015,-1.38
+Producción,Hidroenergia,Transformación en Autoproductores,Kbep,2016,-2.62
+Producción,Hidroenergia,Transformación en Autoproductores,Kbep,2017,-2.28
+Producción,Hidroenergia,Transformación en Autoproductores,Kbep,2018,-4.07
+Producción,Hidroenergia,Transformación en Autoproductores,Kbep,2019,-3.65
+Producción,Hidroenergia,Transformación en Autoproductores,Kbep,2020,-1.78
+Producción,Hidroenergia,Transformación en Autoproductores,Kbep,2021,-2.44
+Producción,Biomasa,Transformación en Autoproductores,Kbep,2011,-261.26
+Producción,Biomasa,Transformación en Autoproductores,Kbep,2012,-233.49
+Producción,Biomasa,Transformación en Autoproductores,Kbep,2013,-461.14
+Producción,Biomasa,Transformación en Autoproductores,Kbep,2014,-433.87
+Producción,Biomasa,Transformación en Autoproductores,Kbep,2015,-874.64
+Producción,Biomasa,Transformación en Autoproductores,Kbep,2016,-681.81
+Producción,Biomasa,Transformación en Autoproductores,Kbep,2017,-495.72
+Producción,Biomasa,Transformación en Autoproductores,Kbep,2018,-500.93
+Producción,Biomasa,Transformación en Autoproductores,Kbep,2019,-293.07
+Producción,Biomasa,Transformación en Autoproductores,Kbep,2020,-371.63
+Producción,Biomasa,Transformación en Autoproductores,Kbep,2021,-1097.16
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2006,4.6
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2007,5.19
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2008,3.65
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2009,3.65
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2010,7.14
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2011,48.26
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2012,65.74
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2013,59.18
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2014,56.1
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2015,137.71
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2016,138.72
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2017,183.32
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2018,176.53
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2019,156.68
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2020,236.11
+Producción,Electricidad,Transformación en Autoproductores,Kbep,2021,297.4
+Producción,Diesel Oil,Transformación en Autoproductores,Kbep,2012,-0.14
+Producción,Diesel Oil,Transformación en Autoproductores,Kbep,2013,-0.14
+Producción,Diesel Oil,Transformación en Autoproductores,Kbep,2014,-0.14
+Producción,Diesel Oil,Transformación en Autoproductores,Kbep,2015,-7.41
+Producción,Diesel Oil,Transformación en Autoproductores,Kbep,2016,-7.41
+Producción,Diesel Oil,Transformación en Autoproductores,Kbep,2017,-1.2
+Producción,Diesel Oil,Transformación en Autoproductores,Kbep,2018,-2.12
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2006,-2179.79
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2007,-2170.68
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2008,-2171.54
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2009,-2110.3
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2010,-2061.21
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2011,-1979.2
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2012,-1986.57
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2013,-2579.08
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2014,-2759.73
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2015,-3043.03
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2016,-3799.07
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2017,-3799.62
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2018,-3988.12
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2019,-4440.21
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2020,-4078.74
+Producción,Gas Natural,Transformación en Plantas de tratamiento de gas,Kbep,2021,-4903.43
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2006,-15594.29
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2007,-16616.93
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2008,-17910.42
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2009,-15506.17
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2010,-16025.06
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2011,-16594.33
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2012,-16804.06
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2013,-19355.61
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2014,-20247.34
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2015,-22422
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2016,-20916.69
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2017,-20029.97
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2018,-19035.59
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2019,-16585.23
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2020,-15588.93
+Producción,"Petróleo Crudo, Condensado y Gasolina Natural",TOTAL TRANSFORMACIÓN,Kbep,2021,-15627.37
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2006,-7214.96
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2007,-7740
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2008,-8560.31
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2009,-9169.01
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2010,-10577.2
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2011,-11304.45
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2012,-11526.67
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2013,-11818.64
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2014,-13269.39
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2015,-14047.88
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2016,-16955.58
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2017,-16321.12
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2018,-15497.06
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2019,-14769.44
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2020,-13099.63
+Producción,Gas Natural,TOTAL TRANSFORMACIÓN,Kbep,2021,-14149.7
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2006,-1337.64
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2007,-1437.03
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2008,-1431.04
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2009,-1422.38
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2010,-1346.82
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2011,-1453.89
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2012,-1457.55
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2013,-1570.71
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2014,-1394.96
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2015,-1526.11
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2016,-1065.61
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2017,-1383.9
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2018,-1618.62
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2019,-2013.99
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2020,-1822.98
+Producción,Hidroenergia,TOTAL TRANSFORMACIÓN,Kbep,2021,-2005.54
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2006,-246.92
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2007,-296.78
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2008,-398.24
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2009,-489.73
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2010,-477.58
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2011,-524.76
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2012,-497.83
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2013,-786.9
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2014,-769.86
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2015,-1228.86
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2016,-958.06
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2017,-706.46
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2018,-845.17
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2019,-1872.36
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2020,-1373.01
+Producción,Biomasa,TOTAL TRANSFORMACIÓN,Kbep,2021,-2794.16
+Producción,Eólica,TOTAL TRANSFORMACIÓN,Kbep,2014,-5.05
+Producción,Eólica,TOTAL TRANSFORMACIÓN,Kbep,2015,-7.09
+Producción,Eólica,TOTAL TRANSFORMACIÓN,Kbep,2016,-21.63
+Producción,Eólica,TOTAL TRANSFORMACIÓN,Kbep,2017,-37.41
+Producción,Eólica,TOTAL TRANSFORMACIÓN,Kbep,2018,-36.46
+Producción,Eólica,TOTAL TRANSFORMACIÓN,Kbep,2019,-43.51
+Producción,Eólica,TOTAL TRANSFORMACIÓN,Kbep,2020,-39.78
+Producción,Eólica,TOTAL TRANSFORMACIÓN,Kbep,2021,-74.12
+Producción,Solar,TOTAL TRANSFORMACIÓN,Kbep,2014,-0.28
+Producción,Solar,TOTAL TRANSFORMACIÓN,Kbep,2015,-2.97
+Producción,Solar,TOTAL TRANSFORMACIÓN,Kbep,2016,-3.51
+Producción,Solar,TOTAL TRANSFORMACIÓN,Kbep,2017,-4.27
+Producción,Solar,TOTAL TRANSFORMACIÓN,Kbep,2018,-78.95
+Producción,Solar,TOTAL TRANSFORMACIÓN,Kbep,2019,-117.12
+Producción,Solar,TOTAL TRANSFORMACIÓN,Kbep,2020,-154.89
+Producción,Solar,TOTAL TRANSFORMACIÓN,Kbep,2021,-217.19
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2006,3086.23
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2007,3355.31
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2008,3662.19
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2009,3849.32
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2010,4119.57
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2011,4473.09
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2012,4746.42
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2013,4995.8
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2014,5304.05
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2015,5651.06
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2016,5826.31
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2017,6008.28
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2018,6164.52
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2019,6341.15
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2020,6219.09
+Producción,Electricidad,TOTAL TRANSFORMACIÓN,Kbep,2021,6740.9
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2006,4334.98
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2007,4668.54
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2008,4852.96
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2009,3828.37
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2010,3752.94
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2011,4022.68
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2012,4252.68
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2013,4874.42
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2014,5266.44
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2015,5908.05
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2016,5405.02
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2017,4887.86
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2018,4707.57
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2019,3677.88
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2020,3993.44
+Producción,Diesel Oil,TOTAL TRANSFORMACIÓN,Kbep,2021,3452.87
