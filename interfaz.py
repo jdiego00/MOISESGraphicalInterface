@@ -11,53 +11,76 @@ from sklearn.linear_model import LinearRegression
 class DataVisualizerApp(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Visualizador de Datos Energéticos")
+        self.setWindowTitle("Energy Data Viewer")
         self.setGeometry(100, 100, 1200, 800)
 
-        # Cargar datos
-        self.df = pd.read_csv('datos.csv')
+        self.df = pd.read_csv('data.csv')
         self.df['Año'] = pd.to_datetime(self.df['Año'], format='%Y')
 
         # Convertir unidades de energía (kbep a gigajulios, 1 kbep = 41.868 GJ)
         self.df['Cantidad_GJ'] = self.df['Cantidad'] * 41.868
 
-        # Crear widgets
         self.create_widgets()
-
-        # Crear layout
         self.create_layout()
 
     def create_widgets(self):
+        font_size_style = """
+        QComboBox, QPushButton, QListWidget, QLabel, QLineEdit {
+            font-size: 18px;
+        }
+    """
         # Filtros
         self.subsistema_combo = QComboBox()
-        self.subsistema_combo.addItems(self.df['Subsistema'].unique())
+        self.subsistema_combo.addItems(self.df['Subsystem'].unique())
+        self.subsistema_combo.setStyleSheet(font_size_style)
+
         self.energetico_combo = QComboBox()
-        self.energetico_combo.addItems(self.df['Energetico'].unique())
+        self.energetico_combo.addItems(self.df['Energetic'].unique())
+        self.energetico_combo.setStyleSheet(font_size_style)
+
         self.variable_combo = QComboBox()
         self.update_variable_options()  # Actualizar las variables según subsistema y energético seleccionados
+        self.variable_combo.setStyleSheet(font_size_style)
+
 
         # Selector de unidad de energía
+         # Selector de unidad de energía
         self.energy_unit_combo = QComboBox()
-        self.energy_unit_combo.addItems(['kbep', 'Gigajulios'])
+        self.energy_unit_combo.addItems(['kboe', 'Gigajoules '])
+        self.energy_unit_combo.setStyleSheet(font_size_style)
 
-        # Lista de variables seleccionadas
         self.selected_vars_list = QListWidget()
+        self.selected_vars_list.setStyleSheet(font_size_style)
 
-        # Botones
-        self.add_var_button = QPushButton("Añadir Variable")
-        self.remove_var_button = QPushButton("Quitar Variable")
-        self.plot_button = QPushButton("Graficar")
-        self.predict_button = QPushButton("Predecir")
+        self.add_var_button = QPushButton("Add Variable")
+        self.add_var_button.setStyleSheet(font_size_style)
+        
+        self.remove_var_button = QPushButton("Remove Variable")
+        self.remove_var_button.setStyleSheet(font_size_style)
+        
+        self.plot_button = QPushButton("Graph data")
+        self.plot_button.setStyleSheet(font_size_style)
+        
+        self.predict_button = QPushButton("Predict")
+        self.predict_button.setStyleSheet(font_size_style)
 
         # Campos para rangos
         self.x_min_input = QLineEdit()
+        self.x_min_input.setStyleSheet(font_size_style)
+        
         self.x_max_input = QLineEdit()
+        self.x_max_input.setStyleSheet(font_size_style)
+        
         self.y_min_input = QLineEdit()
+        self.y_min_input.setStyleSheet(font_size_style)
+        
         self.y_max_input = QLineEdit()
+        self.y_max_input.setStyleSheet(font_size_style)
 
         # Campos para predicción
         self.prediction_years_input = QLineEdit()
-        self.prediction_years_input.setPlaceholderText("Años de predicción")
+        self.prediction_years_input.setPlaceholderText("years of prediction")
+        self.prediction_years_input.setStyleSheet(font_size_style)
 
         # Canvas para el gráfico
         self.figure, self.ax = plt.subplots(figsize=(10, 6))
@@ -65,6 +88,7 @@ class DataVisualizerApp(QMainWindow):
 
         # Etiquetas para estadísticas
         self.stats_label = QLabel()
+        self.stats_label.setStyleSheet(font_size_style)
 
         # Conectar señales
         self.subsistema_combo.currentIndexChanged.connect(self.update_variable_options)
@@ -72,33 +96,72 @@ class DataVisualizerApp(QMainWindow):
         self.energy_unit_combo.currentIndexChanged.connect(self.plot_data)
 
     def create_layout(self):
+        font_size_style = """
+        QComboBox, QPushButton, QListWidget, QLabel, QLineEdit {
+            font-size: 16px;
+        }
+    """
+
         main_widget = QWidget()
         main_layout = QHBoxLayout()
 
         # Layout izquierdo (controles)
         left_layout = QVBoxLayout()
-        left_layout.addWidget(QLabel("Subsistema:"))
+        
+        subsistema_label = QLabel("Subsystem:")
+        subsistema_label.setStyleSheet(font_size_style)
+        left_layout.addWidget(subsistema_label)
         left_layout.addWidget(self.subsistema_combo)
-        left_layout.addWidget(QLabel("Energético:"))
+        
+        energetico_label = QLabel("Energy Type:")
+        energetico_label.setStyleSheet(font_size_style)
+        left_layout.addWidget(energetico_label)
         left_layout.addWidget(self.energetico_combo)
-        left_layout.addWidget(QLabel("Variable:"))
+        
+        variable_label = QLabel("Variable:")
+        variable_label.setStyleSheet(font_size_style)
+        left_layout.addWidget(variable_label)
         left_layout.addWidget(self.variable_combo)
-        left_layout.addWidget(QLabel("Unidad de Energía:"))
+        
+        unidad_energia_label = QLabel("Unit of energy:")
+        unidad_energia_label.setStyleSheet(font_size_style)
+        left_layout.addWidget(unidad_energia_label)
         left_layout.addWidget(self.energy_unit_combo)
+        
+        self.add_var_button.setStyleSheet(font_size_style)
         left_layout.addWidget(self.add_var_button)
-        left_layout.addWidget(QLabel("Variables Seleccionadas:"))
+        
+        variables_seleccionadas_label = QLabel("Selected variables:")
+        variables_seleccionadas_label.setStyleSheet(font_size_style)
+        left_layout.addWidget(variables_seleccionadas_label)
         left_layout.addWidget(self.selected_vars_list)
+        
+        self.remove_var_button.setStyleSheet(font_size_style)
         left_layout.addWidget(self.remove_var_button)
-        left_layout.addWidget(QLabel("Rango X (Año):"))
+        
+        rango_x_label = QLabel("Range X (Year):")
+        rango_x_label.setStyleSheet(font_size_style)
+        left_layout.addWidget(rango_x_label)
         left_layout.addWidget(self.x_min_input)
         left_layout.addWidget(self.x_max_input)
-        left_layout.addWidget(QLabel("Rango Y:"))
+        
+        rango_y_label = QLabel("Rango Y:")
+        rango_y_label.setStyleSheet(font_size_style)
+        left_layout.addWidget(rango_y_label)
         left_layout.addWidget(self.y_min_input)
         left_layout.addWidget(self.y_max_input)
+        
+        self.plot_button.setStyleSheet(font_size_style)
         left_layout.addWidget(self.plot_button)
-        left_layout.addWidget(QLabel("Años de predicción:"))
+        
+        prediccion_label = QLabel("Years of prediction:")
+        prediccion_label.setStyleSheet(font_size_style)
+        left_layout.addWidget(prediccion_label)
         left_layout.addWidget(self.prediction_years_input)
+        
+        self.predict_button.setStyleSheet(font_size_style)
         left_layout.addWidget(self.predict_button)
+        
         left_layout.addStretch()
 
         # Layout derecho (gráfico y estadísticas)
@@ -121,7 +184,7 @@ class DataVisualizerApp(QMainWindow):
     def update_variable_options(self):
         subsistema = self.subsistema_combo.currentText()
         energetico = self.energetico_combo.currentText()
-        filtered_df = self.df[(self.df['Subsistema'] == subsistema) & (self.df['Energetico'] == energetico)]
+        filtered_df = self.df[(self.df['Subsystem'] == subsistema) & (self.df['Energetic'] == energetico)]
         available_variables = filtered_df['Variable'].unique()
         self.variable_combo.clear()
         self.variable_combo.addItems(available_variables)
@@ -143,8 +206,8 @@ class DataVisualizerApp(QMainWindow):
 
         for i in range(self.selected_vars_list.count()):
             var = self.selected_vars_list.item(i).text().split(" - ")
-            data = self.df[(self.df['Subsistema'] == var[0]) &
-                           (self.df['Energetico'] == var[1]) &
+            data = self.df[(self.df['Subsystem'] == var[0]) &
+                           (self.df['Energetic'] == var[1]) &
                            (self.df['Variable'] == var[2])]
 
             if energy_unit == 'Gigajulios':
@@ -152,8 +215,8 @@ class DataVisualizerApp(QMainWindow):
             else:
                 self.ax.plot(data['Año'], data['Cantidad'], label=f"{var[1]} - {var[2]}")
 
-        self.ax.set_xlabel('Año')
-        self.ax.set_ylabel('Cantidad (kbep)' if energy_unit == 'kbep' else 'Cantidad (Gigajulios)')
+        self.ax.set_xlabel('year')
+        self.ax.set_ylabel('Quantity (kboe)' if energy_unit == 'kboe' else 'Quantity (GigaJoules)')
         self.ax.legend(loc='upper center', bbox_to_anchor=(0.5, 1.15), ncol=2)  # Leyenda en la parte superior
         self.ax.grid(True)
 
@@ -171,30 +234,37 @@ class DataVisualizerApp(QMainWindow):
         self.calculate_stats()
 
     def calculate_stats(self):
-        stats_text = "Estadísticas:\n"
+        stats_text = "<b>Statistics:</b><br>"
 
         if self.selected_vars_list.count() > 1:
             # Preparar datos para correlación
             data_list = []
+            var_names = []
             for i in range(self.selected_vars_list.count()):
                 var = self.selected_vars_list.item(i).text().split(" - ")
-                data = self.df[(self.df['Subsistema'] == var[0]) &
-                               (self.df['Energetico'] == var[1]) &
+                data = self.df[(self.df['Subsystem'] == var[0]) &
+                               (self.df['Energetic'] == var[1]) &
                                (self.df['Variable'] == var[2])]
                 if self.energy_unit_combo.currentText() == 'Gigajulios':
                     data_list.append(data['Cantidad_GJ'].values)
                 else:
                     data_list.append(data['Cantidad'].values)
+                var_names.append(f"{var[1]} - {var[2]}")
 
             # Asegurar que todas las listas tengan la misma longitud
             min_length = min(len(l) for l in data_list)
             data_list = [l[:min_length] for l in data_list]
 
-            if len(data_list) > 1 and min_length > 1:
+            if len(data_list) == 2 and min_length > 1:
                 corr_matrix = np.corrcoef(data_list)
-                stats_text += f"Correlación: {corr_matrix[0][1]:.2f}\n"
+                stats_text += f"Correlation: {corr_matrix[0][1]:.2f}<br>"
+            elif len(data_list) > 2 and min_length > 1:
+                corr_matrix = np.corrcoef(data_list)
+                stats_text += "<b>Correlation Matrix:</b><br>"
+                df_corr = pd.DataFrame(corr_matrix, index=var_names, columns=var_names)
+                stats_text += df_corr.to_html().replace('<table border="1" class="dataframe">', '<table border="1" class="dataframe" style="border-collapse: collapse; width: 100%;">')
             else:
-                stats_text += "No hay suficientes datos para calcular la correlación.\n"
+                stats_text += "Not enough data to make a correlation.<br>"
 
         self.stats_label.setText(stats_text)
 
@@ -205,8 +275,8 @@ class DataVisualizerApp(QMainWindow):
 
         for i in range(self.selected_vars_list.count()):
             var = self.selected_vars_list.item(i).text().split(" - ")
-            data = self.df[(self.df['Subsistema'] == var[0]) &
-                           (self.df['Energetico'] == var[1]) &
+            data = self.df[(self.df['Subsystem'] == var[0]) &
+                           (self.df['Energetic'] == var[1]) &
                            (self.df['Variable'] == var[2])]
 
             if energy_unit == 'Gigajulios':
@@ -226,7 +296,7 @@ class DataVisualizerApp(QMainWindow):
             self.ax.plot(future_years, future_y, '--', label=f"Predicción {var[1]} - {var[2]}")
 
         self.ax.set_xlabel('Año')
-        self.ax.set_ylabel('Cantidad (kbep)' if energy_unit == 'kbep' else 'Cantidad (Gigajulios)')
+        self.ax.set_ylabel('Cantidad (kboe)' if energy_unit == 'kboe' else 'Cantidad (Gigajulios)')
         self.ax.legend(loc='upper center', bbox_to_anchor=(0.5, 1.15), ncol=2)  # Leyenda en la parte superior
         self.ax.grid(True)
 
