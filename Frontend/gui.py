@@ -31,11 +31,11 @@ class DataVisualizerApp(QMainWindow):
     """
         # Filtros
         self.subsistema_combo = QComboBox()
-        self.subsistema_combo.addItems(self.df['Subsystem'].unique())
+        self.subsistema_combo.addItems(self.df['Subsistema'].unique())
         self.subsistema_combo.setStyleSheet(font_size_style)
 
         self.energetico_combo = QComboBox()
-        self.energetico_combo.addItems(self.df['Energetic'].unique())
+        self.energetico_combo.addItems(self.df['Energetico'].unique())
         self.energetico_combo.setStyleSheet(font_size_style)
 
         self.variable_combo = QComboBox()
@@ -184,7 +184,7 @@ class DataVisualizerApp(QMainWindow):
     def update_variable_options(self):
         subsistema = self.subsistema_combo.currentText()
         energetico = self.energetico_combo.currentText()
-        filtered_df = self.df[(self.df['Subsystem'] == subsistema) & (self.df['Energetic'] == energetico)]
+        filtered_df = self.df[(self.df['Subsistema'] == subsistema) & (self.df['Energetico'] == energetico)]
         available_variables = filtered_df['Variable'].unique()
         self.variable_combo.clear()
         self.variable_combo.addItems(available_variables)
@@ -206,8 +206,8 @@ class DataVisualizerApp(QMainWindow):
 
         for i in range(self.selected_vars_list.count()):
             var = self.selected_vars_list.item(i).text().split(" - ")
-            data = self.df[(self.df['Subsystem'] == var[0]) &
-                           (self.df['Energetic'] == var[1]) &
+            data = self.df[(self.df['Subsistema'] == var[0]) &
+                           (self.df['Energetico'] == var[1]) &
                            (self.df['Variable'] == var[2])]
 
             if energy_unit == 'Gigajulios':
@@ -242,8 +242,8 @@ class DataVisualizerApp(QMainWindow):
             var_names = []
             for i in range(self.selected_vars_list.count()):
                 var = self.selected_vars_list.item(i).text().split(" - ")
-                data = self.df[(self.df['Subsystem'] == var[0]) &
-                               (self.df['Energetic'] == var[1]) &
+                data = self.df[(self.df['Subsistema'] == var[0]) &
+                               (self.df['Energetico'] == var[1]) &
                                (self.df['Variable'] == var[2])]
                 if self.energy_unit_combo.currentText() == 'Gigajulios':
                     data_list.append(data['Cantidad_GJ'].values)
@@ -275,8 +275,8 @@ class DataVisualizerApp(QMainWindow):
 
         for i in range(self.selected_vars_list.count()):
             var = self.selected_vars_list.item(i).text().split(" - ")
-            data = self.df[(self.df['Subsystem'] == var[0]) &
-                           (self.df['Energetic'] == var[1]) &
+            data = self.df[(self.df['Subsistema'] == var[0]) &
+                           (self.df['Energetico'] == var[1]) &
                            (self.df['Variable'] == var[2])]
 
             if energy_unit == 'Gigajulios':
@@ -310,7 +310,7 @@ class DataVisualizerApp(QMainWindow):
 
         self.canvas.draw()
 
-if __name__ == '__main__':
+def start_gui():
     app = QApplication(sys.argv)
     ex = DataVisualizerApp()
     ex.show()
