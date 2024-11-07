@@ -8,17 +8,19 @@ from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from scipy import stats
 from sklearn.linear_model import LinearRegression
 
+from ...core.importer import handler
+
 class DataVisualizerApp(QMainWindow):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("Energy Data Viewer")
         self.setGeometry(100, 100, 1200, 800)
 
-        self.df = pd.read_csv('data.csv')
-        self.df['Año'] = pd.to_datetime(self.df['Año'], format='%Y')
+        # self.df = pd.read_csv('../data/data.csv')
+        # self.df['Año'] = pd.to_datetime(self.df['Año'], format='%Y')
 
-        # Convertir unidades de energía (kbep a gigajulios, 1 kbep = 41.868 GJ)
-        self.df['Cantidad_GJ'] = self.df['Cantidad'] * 41.868
+        # # Convertir unidades de energía (kbep a gigajulios, 1 kbep = 41.868 GJ)
+        # self.df['Cantidad_GJ'] = self.df['Cantidad'] * 41.868
 
         self.create_widgets()
         self.create_layout()

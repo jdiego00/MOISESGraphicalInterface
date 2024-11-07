@@ -1,6 +1,15 @@
 # src/main.py
-from Frontend.gui import start_gui
-from Backend.logic import start_logic
+#%%
+
+# import sys 
+
+# sys.path.append("src")
+# from moises.interface.Frontend.gui import start_gui
+# from moises.interface.Backend.logic import start_logic
+
+
+from src.moises.interface.Frontend.gui import start_gui
+from src.moises.interface.Backend.logic import start_logic
 
 
 def main():
@@ -13,3 +22,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# %%
