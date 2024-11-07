@@ -1,4 +1,4 @@
-# src/main.py
+#%% src/main.py
 from Frontend.gui import start_gui
 from Backend.logic import start_logic
 
@@ -11,3 +11,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# %%
