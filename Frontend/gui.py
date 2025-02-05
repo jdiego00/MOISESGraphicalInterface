@@ -1,7 +1,7 @@
 import sys
 import pandas as pd
 import numpy as np
-from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, QComboBox, QPushButton, QListWidget, QLabel, QLineEdit
+from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, QComboBox, QPushButton, QListWidget, QLabel, QLineEdit, QFileDialog, QMessageBox
 from PyQt5.QtCore import Qt
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
@@ -64,6 +64,9 @@ class DataVisualizerApp(QMainWindow):
         self.predict_button = QPushButton("Predict")
         self.predict_button.setStyleSheet(font_size_style)
 
+        self.download_data_button = QPushButton("Download Data")
+        self.download_data_button.setStyleSheet(font_size_style)
+
         # Campos para rangos
         self.x_min_input = QLineEdit()
         self.x_min_input.setStyleSheet(font_size_style)
@@ -82,6 +85,12 @@ class DataVisualizerApp(QMainWindow):
         self.prediction_years_input.setPlaceholderText("years of prediction")
         self.prediction_years_input.setStyleSheet(font_size_style)
 
+        self.download_button = QPushButton("Download Graph")
+        self.download_button.setStyleSheet(font_size_style)
+        self.download_button.clicked.connect(self.download_graph)
+
+
+
         # Canvas para el gráfico
         self.figure, self.ax = plt.subplots(figsize=(10, 6))
         self.canvas = FigureCanvas(self.figure)
@@ -94,6 +103,8 @@ class DataVisualizerApp(QMainWindow):
         self.subsistema_combo.currentIndexChanged.connect(self.update_variable_options)
         self.energetico_combo.currentIndexChanged.connect(self.update_variable_options)
         self.energy_unit_combo.currentIndexChanged.connect(self.plot_data)
+
+        
 
     def create_layout(self):
         font_size_style = """
@@ -161,6 +172,11 @@ class DataVisualizerApp(QMainWindow):
         
         self.predict_button.setStyleSheet(font_size_style)
         left_layout.addWidget(self.predict_button)
+        self.download_button.setStyleSheet(font_size_style)
+        left_layout.addWidget(self.download_button)
+        left_layout.addWidget(self.download_data_button)
+        self.download_data_button.clicked.connect(self.download_data)
+
         
         left_layout.addStretch()
 
@@ -216,7 +232,7 @@ class DataVisualizerApp(QMainWindow):
                 self.ax.plot(data['Año'], data['Cantidad'], label=f"{var[1]} - {var[2]}")
 
         self.ax.set_xlabel('year')
-        self.ax.set_ylabel('Quantity (kboe)' if energy_unit == 'kboe' else 'Quantity (GigaJoules)')
+        self.ax.set_ylabel('kboe' if energy_unit == 'kboe' else 'Quantity (GigaJoules)')
         self.ax.legend(loc='upper center', bbox_to_anchor=(0.5, 1.15), ncol=2)  # Leyenda en la parte superior
         self.ax.grid(True)
 
@@ -309,6 +325,59 @@ class DataVisualizerApp(QMainWindow):
                              float(self.y_max_input.text()))
 
         self.canvas.draw()
+    
+    def download_graph(self):
+        file_name, _ = QFileDialog.getSaveFileName(self, "Save Graph", "", "PNG Files (*.png);;JPEG Files (*.jpg);;All Files (*)")
+        if file_name:
+            try:
+                self.figure.savefig(file_name)
+                QMessageBox.information(self, "Download Successful", f"Graph saved as {file_name}")
+            except Exception as e:
+                QMessageBox.critical(self, "Error", f"Failed to save graph: {e}")
+    
+    def download_data(self):
+        # Check if any variables are selected
+        if self.selected_vars_list.count() == 0:
+            QMessageBox.warning(self, "No Variables Selected", "Please select variables to download.")
+            return
+
+        # Open file dialog to choose save location
+        file_name, _ = QFileDialog.getSaveFileName(self, "Save Data", "", "CSV Files (*.csv);;All Files (*)")
+        if not file_name:
+            return
+
+        # Collect data for selected variables
+        selected_data_list = []
+        for i in range(self.selected_vars_list.count()):
+            var = self.selected_vars_list.item(i).text().split(" - ")
+            data = self.df[(self.df['Subsistema'] == var[0]) &
+                        (self.df['Energetico'] == var[1]) &
+                        (self.df['Variable'] == var[2])]
+            selected_data_list.append(data)
+
+        # Combine selected data
+        if selected_data_list:
+            combined_data = pd.concat(selected_data_list)
+            
+            # Convert to selected energy unit if needed
+            # if self.energy_unit_combo.currentText() == 'Gigajulios':
+            #     combined_data['Cantidad'] = combined_data['Cantidad_GJ']
+            #     combined_data = combined_data.rename(columns={'Cantidad_GJ': 'Cantidad (GJ)'})
+
+            # Save to CSV
+            try:
+                combined_data.to_csv(file_name, index=False)
+                QMessageBox.information(self, "Download Successful", f"Data saved as {file_name}")
+            except Exception as e:
+                QMessageBox.critical(self, "Error", f"Failed to save data: {e}")
+    
+    
+
+
+
+
+
+
 
 def start_gui():
     app = QApplication(sys.argv)

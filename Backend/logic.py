@@ -11,14 +11,14 @@ SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
 
 # ID del Spreadsheet y el rango de la hoja que deseas leer
 SPREADSHEET_ID = "1FpUP2Inv1lmH4M1JYst3SBC19xv0P8GFyWvcJEMdFzY"
-RANGE_NAME = "Data!A1:AO629"
+RANGE_NAME = "Data!A1:AO2749"
 
 def clean_number(value):
-    """Limpia y convierte strings numéricos a float."""
+    """Limpia y convierte strings numéricos a float y los transforma en positivos."""
     if pd.isna(value) or value == '-':
         return None
     if isinstance(value, (int, float)):
-        return float(value)
+        return abs(float(value))
     if isinstance(value, str):
         # Reemplazar comas por puntos si existen
         value = value.replace(',', '.')
@@ -29,7 +29,7 @@ def clean_number(value):
             value = parts[0].replace('.', '') + '.' + parts[1]  # Elimina puntos intermedios
         
         try:
-            return float(value)
+            return abs(float(value))
         except ValueError:
             print(f"No se pudo convertir el valor: {value}")
             return None
