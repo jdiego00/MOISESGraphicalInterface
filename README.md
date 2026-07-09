@@ -12,10 +12,6 @@ An interactive Python tool for exploring Bolivia's national power-generation dat
 
 The full presentation is available here: [presentation.pdf](https://drive.google.com/file/d/1SHt3N9qzQHlgA7xfor6oSqKVOotdh9u3/view?usp=sharing)
 
-## The Program
-
-![Program screenshot](![alt text](image.png))
-
 ## Overview
 
 This project researches Bolivia's power-generation landscape by collecting, cleaning, and analyzing national energy-system data. The core deliverable is an interactive graphical interface, built in Python, that lets users explore the data through multiple analytical views and was used to present the findings.
