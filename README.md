@@ -14,7 +14,7 @@ The full presentation is available here: [presentation.pdf](https://drive.google
 
 ## Overview
 
-This project researches Bolivia's power-generation landscape by collecting, cleaning, and analyzing national energy-system data. This project is an interactive graphical interface, built in Python, that lets users explore the data through multiple analytical views and was used to present the findings.
+This project researches Bolivia's power-generation landscape by collecting, cleaning, and analyzing national energy-system data. This repository is an interactive graphical interface, built in Python, that lets users explore the data through multiple analytical views and was used to present the findings.
 
 ## Research Context
 
