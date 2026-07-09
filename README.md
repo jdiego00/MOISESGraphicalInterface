@@ -23,4 +23,3 @@ This project researches Bolivia's power-generation landscape by collecting, clea
 ## Research Context
 
 The research was conducted at **Universidad Privada de Santa Cruz de la Sierra (UPSA)** and presented at **Texas A&M University**, as an exposition on Bolivia's energy landscape and its potential improvements.
-WW
