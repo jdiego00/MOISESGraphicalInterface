@@ -1,6 +1,7 @@
 # MOISES Graphical Interface
 
-An interactive Python tool for exploring Bolivia's national power-generation data, built as part of a research collaboration and presented at **Texas A&M University**.
+The MOISES project is a research collaboration presented at **Texas A&M University**, focused on collecting, cleaning, and analyzing Bolivia's national power-generation data.
+This tool is an interactive Python interface built to explore Bolivia's national power-generation data.
 
 ## Publications & Coverage
 
@@ -14,7 +15,9 @@ The full presentation is available here: [presentation.pdf](https://drive.google
 
 ## Overview
 
-This project researches Bolivia's power-generation landscape by collecting, cleaning, and analyzing national energy-system data. This repository is an interactive graphical interface, built in Python, that lets users explore the data through multiple analytical views and was used to present the findings.
+The bulk of this project was the research itself: collecting, cleaning, and analyzing Bolivia's national energy-system data. That stage is where most of our work went.
+Given the volume of data collected, we needed a way to easily explore it.
+This tool is an interactive Python interface that presents the data through multiple analytical views, and was used to present the findings.
 
 ## Research Context
 
